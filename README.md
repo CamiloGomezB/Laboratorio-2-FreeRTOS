@@ -137,5 +137,5 @@ En esta sección se puede mostrar el montaje físico del proyecto.
 
 Aquí se puede agregar una imagen del monitor serial, pruebas del sistema o validación del funcionamiento.
 
-![Pruebas del sistema](dosc/pruebas-sistema.png)
+![Pruebas del sistema](docs/pruebas-sistema.png)
 
