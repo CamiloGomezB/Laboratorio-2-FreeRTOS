@@ -6,9 +6,9 @@ Proyecto académico desarrollado con **ESP32**, **Arduino IDE** y **FreeRTOS** p
 
 ## Integrantes
 
-- Nombre 1  
-- Nombre 2  
-- Nombre 3  
+- Daniel Sanchez Sotelo    
+- Jeronimo Infante Vega
+- Juan Camilo Gómez
 
 ---
 
