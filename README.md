@@ -97,7 +97,7 @@ La arquitectura se basa en una separación clara de responsabilidades:
 
 Aquí va el diagrama correspondiente a la práctica implementada con FreeRTOS.
 
-![Diagrama del sistema implementado](ruta/de/la/imagen/diagrama-sistema.png)
+![Diagrama del sistema implementado](docs/diagrama-sistema.png)
 
 ---
 
@@ -105,7 +105,7 @@ Aquí va el diagrama correspondiente a la práctica implementada con FreeRTOS.
 
 Aquí va el diagrama de arquitectura hipotética del invernadero inteligente.
 
-![Diagrama de arquitectura del invernadero](ruta/de/la/imagen/diagrama-arquitectura.png)
+![Diagrama de arquitectura del invernadero](docs/diagrama-arquitectura.png)
 
 ---
 
@@ -113,7 +113,7 @@ Aquí va el diagrama de arquitectura hipotética del invernadero inteligente.
 
 Aquí va el diagrama usado para sustentar el concepto de interbloqueo.
 
-![Diagrama de deadlock](ruta/de/la/imagen/diagrama-deadlock.png)
+![Diagrama de deadlock](docs/diagrama-deadlock.png)
 
 ---
 
@@ -121,7 +121,7 @@ Aquí va el diagrama usado para sustentar el concepto de interbloqueo.
 
 Aquí va el diagrama del acceso concurrente sin protección y su solución usando mutex.
 
-![Diagrama de mutex](ruta/de/la/imagen/diagrama-mutex.png)
+![Diagrama de mutex](docs/diagrama-mutex.png)
 
 ---
 
@@ -129,7 +129,7 @@ Aquí va el diagrama del acceso concurrente sin protección y su solución usand
 
 En esta sección se puede mostrar el montaje físico del proyecto.
 
-![Montaje físico](ruta/de/la/imagen/montaje-fisico.png)
+![Montaje físico](docs/montaje-fisico.jpg)
 
 ---
 
@@ -137,5 +137,5 @@ En esta sección se puede mostrar el montaje físico del proyecto.
 
 Aquí se puede agregar una imagen del monitor serial, pruebas del sistema o validación del funcionamiento.
 
-![Pruebas del sistema](ruta/de/la/imagen/pruebas-sistema.png)
+![Pruebas del sistema](dosc/pruebas-sistema.png)
 
