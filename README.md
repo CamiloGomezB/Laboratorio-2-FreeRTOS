@@ -1,4 +1,4 @@
-# Invernadero Inteligente con FreeRTOS
+#Laboratio FreeRTOS
 
 Proyecto académico desarrollado con **ESP32**, **Arduino IDE** y **FreeRTOS** para automatizar y monitorear un invernadero mediante una arquitectura concurrente basada en **tareas**, **colas** y **mutex**.
 
